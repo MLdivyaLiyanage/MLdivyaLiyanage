@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 👋 Hi, I'm Divya Liyanage
+
 Technologist | Full Stack Web Developer | Software Engineering Student
 
 🚀 Passionate about coding, problem-solving, and building innovative solutions. A self-taught programmer eager to explore new technologies and enhance my skills. Always open to exciting opportunities and challenges!
