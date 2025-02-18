@@ -1,5 +1,5 @@
 ## Hi there 👋
-<h1 align="center">Hi 👋, I'm Divya Liyanage</h1>
+<h1 align="center">I'm Divya Liyanage</h1>
 <h3 align="center">I'm a passionate Full Stack Web Developer and Software Engineering student from Sri Lanka. As a self-taught programmer, I enjoy learning new technologies and continuously improving my skills.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mldivyaliyanage&label=Profile%20views&color=0e75b6&style=flat" alt="mldivyaliyanage" /> </p>
