@@ -1,16 +1,18 @@
 ## Hi there 👋
 
-<!--
-**MLdivyaLiyanage/MLdivyaLiyanage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hi, I'm Divya Liyanage
+Technologist | Full Stack Web Developer | Software Engineering Student
 
-Here are some ideas to get you started:
+🚀 Passionate about coding, problem-solving, and building innovative solutions. A self-taught programmer eager to explore new technologies and enhance my skills. Always open to exciting opportunities and challenges!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Tech Stack
+🔹 Frontend: React, HTML, CSS, Bootstrap
+🔹 Backend: Node.js, PHP, Java, Python, C, C#
+🔹 Databases: MySQL, Oracle, Microsoft SQL Server
+🔹 Tools & Cloud: Postman, AWS, Azure
+
+📫 Connect with Me
+🌐 LinkedIn
+📧 Email
+🐦 Twitter
+📸 Instagram
